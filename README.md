@@ -6,6 +6,15 @@
 
 ---
 
+> **v4.0 available.** This document is v1.0 of the Accountability Layer Framework, the foundational principles. 
+> The full formal specification — Named Authority Registration, the Escalation Information Package, 
+> pressure-resistance architecture, an adversarial escalation scenario, and post-incident review — is 
+> published in [`ACCOUNTABILITY-LAYER-v4.0-DRAFT.md`](./ACCOUNTABILITY-LAYER-v4.0-DRAFT.md).
+>
+> ![Accountability Layer v4.0 Architecture](./accountability-layer-v4.0-diagram.png)
+
+---
+
 ## 1. Purpose and Problem Statement
 
 A governance system can log every action perfectly. It can flag every violation instantly and produce an immutable audit trail. It can still fail if no human being is clearly, actively responsible for acting on what that system reports.
