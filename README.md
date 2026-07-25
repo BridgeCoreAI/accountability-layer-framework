@@ -17,6 +17,14 @@ ALF is derived from the BridgeCore Governance Engineering Methodology™ (BGEM) 
 
 ---
 
+## Architecture
+
+![BridgeCore AI Accountability Layer Framework v4.0](./assets/alf-v4-accountability-layer-diagram.png)
+
+ALF operates as a seven-stage accountability cycle sitting directly on top of the technical enforcement layer (EGM). When EGM surfaces a decision, it moves through named authority registration, a structured escalation information package, and an authority decision made under one of three defined organizational-design requirements — resulting in execution, further escalation, or refusal. Every outcome produces a linked evidence record, triggers post-incident review where accountability failed, and feeds an organizational learning record back into the next cycle.
+
+---
+
 ## Core ALF Components
 
 | Component | What It Establishes |
@@ -46,9 +54,10 @@ This public repository contains:
 | File | Description |
 |---|---|
 | `ALF_Executive_Summary.md` | Executive overview of ALF v4.0 — components, framework mapping, and architecture |
-| `LICENSE` | License governing this repository |
+| `assets/alf-v4-accountability-layer-diagram.png` | The seven-stage ALF v4.0 accountability cycle diagram |
+| `LICENSE` | All-rights-reserved license governing this repository |
 
-The complete technical specification — including full component definitions, architecture diagrams, escalation pathway specifications, and implementation guidance — is available upon request.
+The complete technical specification — including full component definitions, the six required elements of the Escalation Information Package, the three organizational design requirements under pressure, escalation pathway specifications, and implementation guidance — is available upon request.
 
 ---
 
