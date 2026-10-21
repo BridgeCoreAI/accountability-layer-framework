@@ -1,3 +1,7 @@
+[![tests](https://github.com/BridgeCoreAI/accountability-layer-framework/actions/workflows/tests.yml/badge.svg)](https://github.com/BridgeCoreAI/accountability-layer-framework/actions/workflows/tests.yml)
+
+Version consistency, calibrated claims, and repository structure are re-verified by executable tests on every push. See the [Actions tab](https://github.com/BridgeCoreAI/accountability-layer-framework/actions/workflows/tests.yml).
+
 # Accountability Layer Framework (ALF)
 
 **BridgeCore AI — Governance Systems Engineering Lab (GSEL)**
