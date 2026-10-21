@@ -55,7 +55,7 @@ This public repository contains:
 |---|---|
 | `ALF_Executive_Summary.md` | Executive overview of ALF v4.0 — components, framework mapping, and architecture |
 | `assets/alf-v4-accountability-layer-diagram.png` | The seven-stage ALF v4.0 accountability cycle diagram |
-| `LICENSE` | All-rights-reserved license governing this repository |
+| `LICENSE` | MIT license governing this repository | 
 
 The complete technical specification — including full component definitions, the six required elements of the Escalation Information Package, the three organizational design requirements under pressure, escalation pathway specifications, and implementation guidance — is available upon request.
 
