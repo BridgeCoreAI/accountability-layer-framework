@@ -59,7 +59,7 @@ class TestClaimsAreCalibrated(unittest.TestCase):
 
 
 class TestLicense(unittest.TestCase):
-        def test_mit_license(self):
+     def test_mit_license(self):
         self.assertIn("MIT License", read(ROOT / "LICENSE"))
         self.assertIn("license: MIT", read(ROOT / "CITATION.cff"))
 
