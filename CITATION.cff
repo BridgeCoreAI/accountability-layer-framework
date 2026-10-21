@@ -9,6 +9,7 @@ version: 4.0.0
 # confirm the actual publication date before relying on citations:
 date-released: "2026-01-01"
 type: software
+license: MIT
 abstract: >
   The Accountability Layer Framework (ALF) is the organizational
   accountability architecture operating above the technical enforcement
