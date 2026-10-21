@@ -59,8 +59,9 @@ class TestClaimsAreCalibrated(unittest.TestCase):
 
 
 class TestLicense(unittest.TestCase):
-    def test_public_content_license(self):
-        self.assertIn("Public Content License", read(ROOT / "LICENSE"))
+        def test_mit_license(self):
+        self.assertIn("MIT License", read(ROOT / "LICENSE"))
+        self.assertIn("license: MIT", read(ROOT / "CITATION.cff"))
 
 
 class TestNoPlaceholders(unittest.TestCase):
