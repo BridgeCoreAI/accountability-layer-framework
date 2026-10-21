@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "Accountability Layer Framework (ALF)"
+authors:
+  - family-names: "Adjeli"
+    given-names: "Grace M."
+repository-code: "https://github.com/BridgeCoreAI/accountability-layer-framework"
+version: 4.0.0
+# confirm the actual publication date before relying on citations:
+date-released: "2026-01-01"
+type: software
+abstract: >
+  The Accountability Layer Framework (ALF) is the organizational
+  accountability architecture operating above the technical enforcement
+  layer of AI governance systems — named accountable authorities,
+  structured escalation, evidence requirements, and governed post-incident
+  review. This public repository contains the executive summary and
+  architecture diagram; the full v4.0 technical specification is available
+  upon request.
